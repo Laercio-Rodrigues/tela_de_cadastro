@@ -10,7 +10,6 @@ const cadastrar = () => {
     const inputConfirmPassword = document.querySelector('.input-confirmar-senha'). value
 
     // Sua tarefa é colocar essas informaçoes dentro de um array
-
 }
 
 button.addEventListener('click', cadastrar)
