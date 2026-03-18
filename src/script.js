@@ -1,5 +1,7 @@
 const button = document.querySelector('.button-cadastrar')
 
+const user = []
+
 const cadastrar = () => {
     const inputName = document.querySelector('.input-name').value
 
